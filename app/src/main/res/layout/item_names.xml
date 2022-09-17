@@ -9,7 +9,7 @@
         android:id="@+id/tv_names"
         android:text="@string/name"
         android:textColor="@color/black"
-        android:textSize="34sp"
+        android:textSize="32sp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
